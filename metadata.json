@@ -1,0 +1,7 @@
+{
+  "name": "Absensi Digital",
+  "description": "Aplikasi absensi digital lengkap dengan fitur scan QR Code, manajemen database sekolah, siswa, guru, kelas, pengajuan izin, kalender akademik, dan rekapitulasi kehadiran.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
